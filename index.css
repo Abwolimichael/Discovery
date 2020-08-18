@@ -1,0 +1,246 @@
+.main1{
+    background-color: gray;
+    width: 100%;
+    height: 70px;
+    display: flex;
+}
+.leftdiv{
+    color: white;
+    padding-top: 15px;
+    padding-left: 50px;
+
+}
+
+
+
+p{
+    color: black;
+}
+.adress{
+    color: white;
+    text-align: left;
+    font-size: large;
+    padding-left: 50px;
+    padding-top: 30px;
+
+}
+.go{
+    padding-left: 130px;
+    padding-top: 25px;
+    
+}
+.card2{
+    padding-left: 25px;
+    border-style: outset;
+}
+.card3{
+    padding-left: 20px;
+    
+    border-style: outset;
+}
+.card1{
+    border-style: outset;
+}
+.track{
+padding-top: 20px;
+text-align: center;
+font-weight: bold;
+font-size: 20px;
+}
+h5{
+    color: red;
+}
+
+.maincard{
+    width: 100%;
+    display: flex;
+    padding-top: 20px;
+    padding-left: 130px;
+     
+}
+.btn1{
+    border-color: green;
+    color: green;
+    width: 200px;
+    height: 30px;
+}
+.btn2{
+    border-color: green;
+    color: green;
+    width: 200px;
+    height: 30px;
+}
+.btn3{
+    border-color: green;
+    color: green;
+    width: 200px;
+    height: 30px;
+
+}
+.btn4{
+    
+    border-color: green;
+    color: green;
+    width: 200px;
+    height: 30px;
+}
+
+.marron{
+    background-color:peachpuff;
+    width: 99%;
+    height: 620px
+}
+
+.rightdiv{
+    padding-left: 750px;
+    padding-top: 15px;
+}
+
+ .chimp{
+     padding-left: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+ }  
+ .end{
+     width: 100%;
+     height: 50px;
+     background-color:black;
+     color: white;
+     text-align: center;
+ } 
+
+.left2div{
+    width: 100%;
+    height: 200px;
+    display: flex;
+   
+}
+.Rwanda{
+    padding-left: 40px;
+    padding-top: 30px;
+    color: white;
+    font-size: large;
+}
+.sar{
+    color: black;
+
+}
+.lastdiv{
+    width: 100%;
+    height: 300px;
+    background-color: green;
+    display: flex;
+}
+.destination{
+    color: white;
+    text-align: left;
+    font-size: large;
+    padding-left: 100px;
+    padding-top: 30px;
+
+}
+
+.discover{
+    font-weight: bolder;
+    padding-top: 23px;
+    font-size: 30px;
+}
+.explo{
+    padding-left: 20px;
+    padding-top:0 px;
+    font-weight: 200px;
+    font-size: 10px;
+    font-weight: bolder;
+    font: italic;
+    
+}
+.wild{
+    padding-left: 0.2px;
+    
+}
+
+
+
+.safari1{
+    padding-left: 45px;
+    padding-top: 20px;
+}
+.main2a{
+    display: flex;
+    width: 100%;
+}
+
+
+.navy{
+    padding-left: 150px;
+    padding-top: 20px;
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    
+   
+}
+
+
+/* Dropdown Button */
+.dropbtn {
+    
+    color: black;
+   
+    font-size: 15px;
+    border: none;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    padding: 15px;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    color: white;
+    background-color:black;
+   width: 250px;
+    
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color:gray;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {background-color:gray;}
+  
+  /* Dropdown Button */
+.dropbtn1 {
+    background-color: white;
+    color: black;
+    padding: 15px;
+    font-size: 15px;
+    border: none;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown1 {
+    position: relative;
+    display: inline-block;
+  }
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown1:hover .dropbtn1 {background-color:gray}
